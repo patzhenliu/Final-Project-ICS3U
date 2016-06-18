@@ -1,0 +1,88 @@
+CLAIM:Elliot,Militsa,OHLA-2394,Broken Leg
+INSUR:Elliot,Militsa,OHLA-2394,Health,True,11/17/1983
+BADGE:Elliot,Militsa,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I need insurance to cover&the cost of my medical bill
+ISGUD:True,Valid Documents
+****
+CLAIM:Issur,Valto,H89F-D98F,Lobotomy Surgery
+INSUR:Issur,Valto,H89F-D98F,Health,True,11/19/1984
+BADGE:Issur,Valto,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I need the company to help&pay for my surgery
+ISGUD:True,Valid Documents
+****
+CLAIM:Bruno,Suzan,2304-0R83,Damaged Roof
+INSUR:Bruno,Suzan,2304-0R83,House,True,11/27/1983
+BADGE:Bruno,Suzan,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;My house was damaged and I&need insurance money to fix it
+ISGUD:True,Valid Documents
+****
+CLAIM:Filip,Orpheus,QWIJ-12I9,Car Accident
+INSUR:Filip,Orpheus,QWIJ-12I9,Car,True,12/10/1983
+BADGE:Filip,Johnson,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I was in a car crash&and I need to company to pay&for repairs
+ISGUD:False,Names Don't Match
+****
+CLAIM:Eliezer,Ignacja,23H8-IJOS,Injured Ankle
+INSUR:Eliezer,Ignacja,23H8-IJOS,Health,True,11/26/1982
+BADGE:Eliezer,Ignacja,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I injured my ankle playing soccer&I need to pay for my medical bill
+ISGUD:False,Document Expired
+****
+CLAIM:Kamil,Herman,ZXN9-234F,
+INSUR:Kamil,Herman,ZXN9-234F,House,True,11/25/1984
+BADGE:Kamil,Herman,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;
+ISGUD:True,Valid Documents
+****
+CLAIM:Asklepiades,Kayley,NZ98-3O2I,Chemotherapy Treatment
+INSUR:
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;Please help me!&My son is sick and I can't&afford the treatment
+ISGUD:False,Missing Documents
+****
+CLAIM:Demeter,Anderson,005N-VCK2,Surgery
+INSUR:Demeter,Anderson,9F32-09DF,Health,True,12/26/1982
+BADGE:Demeter,Anderson,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I need insurance to pay for&my surgery
+ISGUD:False, ID Numbers Don't Match
+****
+CLAIM:Min,Aleixo,0RU2-TIUG,Broken Arm
+INSUR:Min,Aleixo,0RU2-TIUG,Health,True,12/16/1983
+BADGE:Min,Aleixo,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I need insurance to pay&for my medical bill
+ISGUD:True,Valid Documents
+****
+CLAIM:Rylan,Borko,3H2O-IHEG,Car Accident
+INSUR:Rylan,Borko,3H2O-IHEG,Car,False,11/02/1983
+BADGE:Rylan,Borko,False
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I need insurance to repair&my damaged car
+ISGUD:False, Invalid Photo
+****
+CLAIM:
+INSUR:
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;
+ISGUD:True,Valid Documents
+****

@@ -1,0 +1,88 @@
+CLAIM:Bethania,Ander,39R8-0FWH,Eye Exam
+INSUR:Bethania,Ander,39R8-0FWH,Health,True,11/16/1982
+BADGE:Bethania,Ander,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I need to pay my medical bill
+ISGUD:False,Expired Document
+****
+CLAIM:Markus,Karyna,23RJ-IAJO,Car Accident
+INSUR:Markus,Karyna,23RJ-IAJO,Car,True,11/19/1983
+BADGE:Markus,Karyna,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I need to fix the roof&of my house
+ISGUD:False,Comments Don't Match
+****
+CLAIM:Liza,Varinia,2390-32RU,Cancer Diagnosis
+INSUR:Liza,Varinia,2390-32RU,Health,True,12/09/1982
+BADGE:Liza,Varinia,False
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I need insurance money to pay&for my medical bil
+ISGUD:False, Invalid Photo
+****
+CLAIM:Brigid,Felicia,BG0J-B4RT,Broken Hip
+INSUR:Brigid,Felicia,BG0J-B4RT,Health,True,12/27/1982
+BADGE:Brigid,Felicia,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I need to insurance money&to repair my car
+ISGUD:True,Comments Don't Match
+****
+CLAIM:Vladimir,Floretta,035U-FV9B,House Robbery
+INSUR:Vladimir,Floretta,035U-FV9B,House,True,12/11/1984
+BADGE:Vladimir,Floretta,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;My house was robbed and I'd&like to be recompensated
+ISGUD:True,Valid Documents
+****
+CLAIM:Octavia,Eleithia,G09F-VNV3,Car Accident
+INSUR:Jasmine,Eleithia,G09F-VNV3,Car,True,12/05/1982
+BADGE:Octavia,Eleithia,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I need insurance money to&repair my car
+ISGUD:False,Names Don't Match
+****
+CLAIM:Christopher,Temur,203G-0HI9,
+INSUR:Christopher,Temur,203G-0HI9,Health,True,11/04/1982
+BADGE:Christopher,Temur,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;
+ISGUD:False, Expired Document
+****
+CLAIM:Eli,Wigmund,3KO2-GV12,House Damage
+INSUR:Eli,Wigmund,3KO2-GV12,Car,True,12/10/1984
+BADGE:Eli,Wigmund,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;My basement flooded and damaged&my furniture
+ISGUD:True,Invalid Insurance
+****
+CLAIM:Mariano,Tomos,FG0I-RJN4,Roof Damage
+INSUR:Mariano,Tomos,FG0I-RJN4,House,True,12/26/1983
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;My roof was damaged and&I need to repair it
+ISGUD:False,Missing ID Badge
+****
+CLAIM:Isabel,Emmelia,5N4J-B0ZD,Dented Bumper
+INSUR:Isabel,Emmelia,5N4J-B0ZD,Car,True,12/29/1983
+BADGE:Isabel,Emmelia,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;Some idiot bumped into my car!
+ISGUD:True,Valid Documents
+****
+CLAIM:
+INSUR:
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;
+ISGUD:True,Valid Documents
+****

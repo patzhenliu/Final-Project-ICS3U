@@ -1,0 +1,88 @@
+CLAIM:Ibraham,Simone,9FEU-2042,Surgery
+INSUR:Ibraham,Simone,9FEU-2042,Health,True,11/14/1982
+BADGE:Ibraham,Simone,True
+PASSP:Ibraham,Simone,M,True,11/25/1982,9FEU-2042,08/17/1962
+DRIVL:
+CONVO:How can I help you?;I need the company to cover&my medical bill
+ISGUD:True,Valid Documents
+****
+CLAIM:Helene,Ermingard,HQ9F-HU95,Car Accident
+INSUR:Helene,Ermingard,HQ9F-HU95,Car,True,12/12/1983
+BADGE:Helene,Ermingard,True
+PASSP:
+DRIVL:Helene,Ermingard,F,True,11/03/1982,08/23/1973
+CONVO:How can I help you?;I got into a car accident&I'll need insurance to cover the&repair costs
+ISGUD:True,Expired Document
+****
+CLAIM:Alexus,Marquis,SDOF-IT4H,Car Accident
+INSUR:Alexus,Marquis,SDOF-IT4H,Car,True,12/23/1984
+BADGE:Alexus,Marquis,True
+PASSP:
+DRIVL:
+CONVO:How can I help you?;Some guys out there&just told me I need more ID
+ISGUD:False,Missing Identification
+****
+CLAIM:Karol,Luri,HGEW-98T4,Broken Arm
+INSUR:Darren,Luri,HGEW-98T4,Health,True,12/28/1984
+BADGE:Karol,Luri,True
+PASSP:
+DRIVL:Karol,Luri,M,True,12/08/1984,09/14/1968
+CONVO:How can I help you?;I need insurance to cover&my medical bill
+ISGUD:False,Names Don't Match
+****
+CLAIM:Valerie,Adhiambo,34NL-R031,Damaged House
+INSUR:Valerie,Adhiambo,34NL-R031,House,True,11/18/1982
+BADGE:Valerie,Adhiambo,True
+PASSP:Valerie,Adhiambo,F,True,11/08/1983,34NL-R031,4/27/1971
+DRIVL:
+CONVO:How can I help you?;My house was damaged during the&last hurricane
+ISGUD:True,Expired Document
+****
+CLAIM:Kristina,Mihaita,FEJ0-OIJG,Flooded House
+INSUR:Kristina,Mihaita,FEJ0-OIJG,House,True,11/26/1984
+BADGE:Kristina,Mihaita,True
+PASSP:Kristina,Mihaita,F,True,12/26/1984,FEJ0-OIJG,07/17/1970
+DRIVL:
+CONVO:How can I help you?;I need insurance money to&fix my flooded basement
+ISGUD:True,Valid Documents
+****
+CLAIM:Keturah,Merlin,NJER-VFFR,Car Accident
+INSUR:Keturah,Merlin,NJER-VFFR,Car,True,11/20/1984
+BADGE:Keturah,Merlin,True
+PASSP:
+DRIVL:Keturah,Merlin,M,True,12/10/1982,01/16/1963
+CONVO:How can I help you?;My car was damaged in a car accident
+ISGUD:True,Valid Documents
+****
+CLAIM:Genevieve,Farrokh,3029-BJG3,Injured Leg
+INSUR:Genevieve,Farrokh,3029-BJG3,Health,True,12/30/1982
+BADGE:Genevieve,Farrokh,True
+PASSP:
+DRIVL:Genevieve,Farrokh,M,True,12/24/1982,05/27/1969
+CONVO:How can I help you?;I need the company to&cover my medical bill
+ISGUD:False,Invalid Gender
+****
+CLAIM:Kapila,Azura,0VR3-GTU0,Medical Treatment
+INSUR:
+BADGE:Doe,John,False
+PASSP:
+DRIVL:
+CONVO:How can I help you?;My family can't afford the&treatment that'll help with my&son's disease
+ISGUD:False,Missing Documents
+****
+CLAIM:Aurelius,Baldomar,0GR9-4T3K,Car Accident
+INSUR:Aurelius,Baldomar,0GR9-4T3K,Car,True,12/19/1983
+BADGE:Aurelius,Baldomar,True
+PASSP:
+DRIVL:Aurelius,Baldomar,F,True,11/23/1984,11/13/1968
+CONVO:How can I help you?;I need to get my car repaired&using the insurance money
+ISGUD:True,Valid Documents
+****
+CLAIM:
+INSUR:
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;
+ISGUD:True,Valid Documents
+****

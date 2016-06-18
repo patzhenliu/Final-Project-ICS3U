@@ -1,0 +1,88 @@
+CLAIM:Janna,Vernon,OEB3-ASDN,Injured Arm
+INSUR:Janna,Vernon,OEB3-ASDN,Health,True,11/28/1984
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I need insurance to&cover my medical bill
+ISGUD:True,Valid Documents
+****
+CLAIM:Pua,Norris,21NA-XO3F,Car Accident
+INSUR:Pua,Norris,21NA-XO3F,Health,True,11/29/1984
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I was in a car crash and I need insurance to cover it
+ISGUD:True,Valid Documents
+****
+CLAIM:Hrothgar,Kellie,OAR9-43Q0,Car Accident
+INSUR:Hrothgar,Kellie,OAR9-43Q0,House,True,12/12/1983
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;My house was robbed last week&and I'll need the company to cover it
+ISGUD:False,Invalid Insurance
+****
+CLAIM:Matthias,Dagmar,10FJ-32H9,Car Accident
+INSUR:Matthias,Dagmar,10FJ-32H9,Car,True,12/13/1984
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;Yes, I need insurance to cover&my car accident
+ISGUD:True,Valid Documents
+****
+CLAIM:Titiana,Caitlin,3H9R-FS8H,Car Accident
+INSUR:Titiana,Caitlin,3H9R-FS8H,Car,True,12/11/1982
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;Yes, I need insurance to cover&my car accident
+ISGUD:True,Valid Documents
+****
+CLAIM:Oswald,Douglass,N3R2-FEH9,I Am Broke
+INSUR:
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I'd like some money please and thank you!
+ISGUD:False, Missing Documents
+****
+CLAIM:Lonan,Worknesh,142F-S09D,Leg Surgery
+INSUR:Lonan,Worknesh,142F-S09D,Health,True,12/07/1984
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I need the insurance&company to cover the&cost of my surgery
+ISGUD:True,Valid Documents
+****
+CLAIM:Ainslie,Eliora,YU7R-WIRU,Cancer Diagnosis
+INSUR:Ainslie,Eliora,YU7R-WIRU,House,True,11/30/1982
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;I need money to pay for my&cancer diagnosis
+ISGUD:False,Invalid Insurance
+****
+CLAIM:Benjamin,Magdolna,09AD-32HU,Broken Window
+INSUR:Benjamin,Magdolna,09AD-32HU,House,True,12/16/1982
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;Some kids next door broke my window&I'll need insurance money to fix it
+ISGUD:True,Valid Documents
+****
+CLAIM:Jen,Roger,G434-FD98,Ear Infection
+INSUR:Jen,Rogers,G434-FD98,Health,True,11/23/1984
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;What!?;How can I help you?;Sorry I have ear infection&can insurance cover my medical bill?
+ISGUD:True,Valid Documents
+****
+CLAIM:
+INSUR:
+BADGE:
+PASSP:
+DRIVL:
+CONVO:How can I help you?;
+ISGUD:True,Valid Documents
+****
