@@ -46,12 +46,12 @@ DRIVL:
 CONVO:How can I help you?;I need insurance money to&repair my car
 ISGUD:False,Names Don't Match
 ****
-CLAIM:Christopher,Temur,203G-0HI9,
+CLAIM:Christopher,Temur,203G-0HI9,Eye Exam
 INSUR:Christopher,Temur,203G-0HI9,Health,True,11/04/1982
 BADGE:Christopher,Temur,True
 PASSP:
 DRIVL:
-CONVO:How can I help you?;
+CONVO:How can I help you?;I need to pay for my&medical bill
 ISGUD:False, Expired Document
 ****
 CLAIM:Eli,Wigmund,3KO2-GV12,House Damage

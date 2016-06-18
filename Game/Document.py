@@ -206,7 +206,7 @@ class Badge(Document):
                     self.rect.midbottom = (300, 480)  # if doc is outside of screen subsurface line will error
                     pygame.draw.rect(screen, self.brown, self.rect)
                     screen.blit(self.image, self.rect)
-                    screen.blit(self.firstLast, (self.rect.x + 35, self.rect.y + 146))
+                    screen.blit(self.firstLast, (self.rect.x + 20, self.rect.y + 146))
                     screen.blit(self.photoImage, (self.rect.x + 20, self.rect.y + 60))
                     self.screenshot_image = screen.subsurface(self.rect).copy()
                     color_key = self.screenshot_image.get_at((0, 0))
