@@ -28,7 +28,7 @@ BADGE:Brigid,Felicia,True
 PASSP:
 DRIVL:
 CONVO:How can I help you?;I need to insurance money&to repair my car
-ISGUD:True,Comments Don't Match
+ISGUD:False,Comments Don't Match
 ****
 CLAIM:Vladimir,Floretta,035U-FV9B,House Robbery
 INSUR:Vladimir,Floretta,035U-FV9B,House,True,12/11/1984
