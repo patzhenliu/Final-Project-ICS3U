@@ -38,12 +38,12 @@ DRIVL:
 CONVO:How can I help you?;I injured my ankle playing soccer&I need to pay for my medical bill
 ISGUD:False,Document Expired
 ****
-CLAIM:Kamil,Herman,ZXN9-234F,
+CLAIM:Kamil,Herman,ZXN9-234F,Damaged Roof
 INSUR:Kamil,Herman,ZXN9-234F,House,True,11/25/1984
 BADGE:Kamil,Herman,True
 PASSP:
 DRIVL:
-CONVO:How can I help you?;
+CONVO:How can I help you?;Yes, my roof was damaged&in the last storm
 ISGUD:True,Valid Documents
 ****
 CLAIM:Asklepiades,Kayley,NZ98-3O2I,Chemotherapy Treatment
