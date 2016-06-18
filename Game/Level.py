@@ -58,7 +58,7 @@ class Level:
         self.pastFive = False  # is it past five
         self.exit = False  # can we exit
 
-        self.intercom_audio = pygame.mixer.Sound("music/speech-out.wav")
+        self.intercom_audio = pygame.mixer.Sound("music/speech-announce.wav")
         self.intercom_audio.set_volume(0.7)
 
         self.set_level_summary = False  # is summary set yet
