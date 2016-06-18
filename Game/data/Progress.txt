@@ -1,4 +1,4 @@
-1,True,30,06/18/2016,True,True,False
-2,True,0,06/18/2016,False,False,False
+1,False,0,,False,False,False
+2,False,0,,False,False,False
 3,False,0,,False,False,False
 4,False,0,,False,False,False
